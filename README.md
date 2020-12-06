@@ -51,3 +51,6 @@ The dataset contains these variables as explained below:</p>
 
 # <h3> Evaluation </h3>
 Submissions was evaluated based on their f1 score [mean F1 score.]
+
+# <h3> dataset </h3>
+dataset used for training and testing this model can be downloadeded on kaggle through this [link](https://www.kaggle.com/c/intercampusai2019/data) or using the kaggle api **kaggle competitions download -c intercampusai2019**
