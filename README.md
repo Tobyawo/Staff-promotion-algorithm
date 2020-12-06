@@ -1,5 +1,5 @@
   # <h1> Staff promotion algorithm</h1>
- <p>This is a Data Science Nigeria AI 2019 pre-bootcamp competition to build an algorithm that can predicting staff that are likely to be promoted based on defined personal and performance parameters</p>
+ <p>This is a Data Science Nigeria AI 2019 pre-bootcamp competition to build an algorithm that can predict staff that are likely to be promoted based on defined personal and performance parameters</p>
  
  # <h2> Description </h2>
 <p> CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION
@@ -48,3 +48,6 @@ The dataset contains these variables as explained below:</p>
 • PreviousIntraDepartmentalMovement : This is an indicator to identify staff who have moved between departments in the past. Yes and No are the responses.
 
 • Noofprevious_employers : A list of the number of companies that an employee worked with before joining the organisation. This is recorded as counts
+
+# <h3> Evaluation </h3>
+Submissions was evaluated based on their f1 score [mean F1 score.]
